@@ -7,7 +7,7 @@ it or not, which will have an updating icon next to the 5 star review. Users wil
 by clicking on a button that adds items to the recycler view that represents a new game to keep track of
 and be reviewed.
 
-Concepts planned to be used:
+Concepts used:
 -Recycler View
 -Fragments
 -Buttons
